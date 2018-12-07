@@ -1,4 +1,4 @@
-# Project-Management-System
+# Project Management System
 FYP in Asp.Net MVC simple Crud Operations,sending emails and reporting section
 Its Simple Project Management System that i developed in asp.net mvc 
 using its default layout and for data displaying i used jquery data tables
